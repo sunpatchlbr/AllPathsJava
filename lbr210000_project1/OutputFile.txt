@@ -1,0 +1,35 @@
+Flight 1: New York, Los Angeles (Cost)
+Path 1: New York -> Los Angeles. Time: 5 Cost: 350
+Path 2: New York -> Chicago -> Los Angeles. Time: 7 Cost: 550
+Path 3: New York -> Chicago -> San Francisco -> Los Angeles. Time: 14 Cost: 1000
+
+Flight 2: Chicago, San Francisco (Time)
+Path 1: Chicago -> San Francisco. Time: 6 Cost: 400
+Path 2: Chicago -> Los Angeles -> San Francisco. Time: 9 Cost: 650
+Path 3: Chicago -> New York -> Los Angeles -> San Francisco. Time: 13 Cost: 950
+
+Flight 3: Miami, New York (Cost)
+Path 1: Miami -> New York. Time: 6 Cost: 450
+Path 2: Miami -> Chicago -> New York. Time: 7 Cost: 650
+Path 3: Miami -> Chicago -> Los Angeles -> New York. Time: 13 Cost: 1050
+
+Flight 4: Los Angeles, Chicago (Time)
+Path 1: Los Angeles -> Chicago. Time: 4 Cost: 300
+Path 2: Los Angeles -> New York -> Chicago. Time: 8 Cost: 600
+Path 3: Los Angeles -> San Francisco -> Chicago. Time: 11 Cost: 750
+
+Flight 5: Miami, San Francisco (Cost)
+Path 1: Miami -> Chicago -> San Francisco. Time: 10 Cost: 800
+Path 2: Miami -> Chicago -> Los Angeles -> San Francisco. Time: 13 Cost: 1050
+Path 3: Miami -> New York -> Chicago -> San Francisco. Time: 15 Cost: 1100
+
+Flight 6: New York, San Francisco (Time)
+Path 1: New York -> Chicago -> San Francisco. Time: 9 Cost: 650
+Path 2: New York -> Los Angeles -> San Francisco. Time: 10 Cost: 700
+Path 3: New York -> Chicago -> Los Angeles -> San Francisco. Time: 12 Cost: 900
+
+Flight 7: New York, Dis (Time)
+Sorry, there are no flights that connect New York to Dis.
+
+Flight 8: zazazaza, Dis (Time)
+Sorry, the requested source "zazazaza" does not exist in the graph

@@ -1,0 +1,10 @@
+9
+New York|Los Angeles|350|5
+New York|Chicago|250|3
+Los Angeles|Chicago|300|4
+Chicago|San Francisco|400|6
+Los Angeles|San Francisco|350|5
+New York|Miami|450|6
+Miami|Chicago|400|4
+Miami|San Francisco|550|7
+Dis|Connect|1|1

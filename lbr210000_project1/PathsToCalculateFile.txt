@@ -1,0 +1,9 @@
+8
+New York|Los Angeles|C
+Chicago|San Francisco|T
+Miami|New York|C
+Los Angeles|Chicago|T
+Miami|San Francisco|C
+New York|San Francisco|T
+New York|Dis|T
+zazazaza|Dis|T
